@@ -1,0 +1,9 @@
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\bin\Debug\numericMethod.exe
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\bin\Debug\numericMethod.pdb
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\obj\x86\Debug\numericMethod.Form1.resources
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\obj\x86\Debug\numericMethod.Properties.Resources.resources
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\obj\x86\Debug\numericMethod.exe
+c:\users\roman\documents\visual studio 2010\Projects\numericMethod\numericMethod\obj\x86\Debug\numericMethod.pdb
